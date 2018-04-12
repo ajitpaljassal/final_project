@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SP/Desktop/Project Sem/final/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+sstream
+-
+cstring
+-
+iomanip
+-
+
